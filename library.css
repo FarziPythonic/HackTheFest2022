@@ -2,8 +2,14 @@
   display: flex;
   justify-content: center;
   padding-top: 3rem;
+  margin-top:3rem;
 }
 
+/* utility classes */
+.bg-dark{
+   background-color:#ddd;
+  
+}
 /* BOOK BINDINGS */
 .book-bg {
   overflow: hidden;
